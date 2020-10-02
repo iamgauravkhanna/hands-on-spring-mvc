@@ -1,0 +1,43 @@
+setup of project : maven-archetype-mvc
+
+add tomcat as runtime server as library
+
+controller to view
+
+@Controller
+
+@RequestMapping
+
+Model
+
+ModelAndView
+
+view to controller
+
+@RequestParam
+
+RequestMethod
+
+JSP Expression Language | JSTL
+
+Handling Forms
+
+@ModelAttribute
+
+Spring ORM
+
+Redirect View
+
+Handling Error | BindingResult
+
+Serving Static Files | JS, CSS, Images
+
+File Uploading | Multipart using Commons IO
+
+@PathVariable
+
+@ExceptionHandler
+
+Centralized Exception | @ControllerAdvice
+
+Spring Interceptor | HandlerInterceptor
